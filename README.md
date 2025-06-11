@@ -1,5 +1,8 @@
 🚀 Second-year ECE undergrad who loves turning ideas into impactful full-stack apps. Passionate about building projects people actually use — always learning, always shipping.
 
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp7080156.jpg" alt="Anime Programmer Wallpaper" width="800"/>
+</p>
 
 
 
