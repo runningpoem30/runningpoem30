@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight UTC
+  workflow_dispatch:      # Allows you to trigger manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Update README with latest stats
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your GitHub Username"
+
+          git pull
+          git add README.md
+          git commit -m "⏰ Updated README with latest GitHub stats" || echo "No changes to commit"
+          git push
