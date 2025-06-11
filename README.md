@@ -41,9 +41,3 @@ Turning ideas into impactful full-stack apps. Building projects that people  use
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=runningpoem30&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=runningpoem30&icon=0&color=0)](https://visitcount.itsvg.in)
-
