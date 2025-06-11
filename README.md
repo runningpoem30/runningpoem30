@@ -1,4 +1,3 @@
-# 💫 About Me:
 🚀 Second-year ECE undergrad who loves turning ideas into impactful full-stack apps. Passionate about building projects people actually use — always learning, always shipping.
 
 
