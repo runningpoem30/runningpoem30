@@ -6,7 +6,7 @@ escaping mediocrity
 
 
 
-<div align="center">
+<!-- <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=runningpoem30&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
   
@@ -22,7 +22,7 @@ escaping mediocrity
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=runningpoem30&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=runningpoem30&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
